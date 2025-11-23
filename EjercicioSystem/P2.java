@@ -1,4 +1,4 @@
-package Ejercicio; //2. Imprime dos líneas: "Hola" y luego "Mundo" con un solo println.
+package EjercicioSystem; //2. Imprime dos líneas: "Hola" y luego "Mundo" con un solo println.
 
 public class P2 {
 

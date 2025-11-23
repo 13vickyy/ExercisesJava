@@ -1,4 +1,4 @@
-package Ejercicio; //1. Imprime un mensaje que diga tu nombre en lugar de "¡Hola Mundo!".
+package EjercicioSystem; //1. Imprime un mensaje que diga tu nombre en lugar de "¡Hola Mundo!".
 
 public class P1 {
 

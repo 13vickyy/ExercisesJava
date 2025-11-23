@@ -1,4 +1,4 @@
-package Ejercicio; //5. Imprime tu edad, tu color favorito y tu ciudad.
+package EjercicioSystem; //5. Imprime tu edad, tu color favorito y tu ciudad.
 
 public class P5 {
 

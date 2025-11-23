@@ -1,4 +1,4 @@
-package Ejercicio; //6. Explora los diferentes System println(); más allá de "out".
+package EjercicioSystem; //6. Explora los diferentes System println(); más allá de "out".
 import java.util.Scanner; //Importa clase Scanner para poder leer entrada desde el teclado
 
 

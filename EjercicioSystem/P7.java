@@ -1,4 +1,4 @@
-package Ejercicio; //7. Utiliza varios println para imprimir una frase.
+package EjercicioSystem; //7. Utiliza varios println para imprimir una frase.
 
 public class P7 {
     

@@ -1,4 +1,4 @@
-package Ejercicio; //8. Imprime un diseño ASCII (por ejemplo, una cara feliz usando símbolos).
+package EjercicioSystem; //8. Imprime un diseño ASCII (por ejemplo, una cara feliz usando símbolos).
 
 public class P8 {
     

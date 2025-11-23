@@ -1,4 +1,4 @@
-package Ejercicio; //4. Crea un comentario en varias líneas.
+package EjercicioSystem; //4. Crea un comentario en varias líneas.
 
 public class P4 {
 

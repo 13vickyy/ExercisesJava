@@ -1,4 +1,4 @@
-package Ejercicio; //3. Añade un comentario sobre lo que hace cada línea del programa.
+package EjercicioSystem; //3. Añade un comentario sobre lo que hace cada línea del programa.
 
 
 public class P3 {
